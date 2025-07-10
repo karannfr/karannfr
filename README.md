@@ -15,8 +15,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=karannfr&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karannfr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karannfr&limit=5&theme=radical&combine_all_yearly_contributions=true)
+# 📊 LeetCode Stats:
+[![krishdugar04's LeetCode Stats](https://coding-profile.vercel.app/api?username=krishdugar04&theme=Dark)](https://github.com/Pranshu321/coding-profiles)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karannfr&icon=0&color=6)](https://visitcount.itsvg.in)
