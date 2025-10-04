@@ -28,7 +28,21 @@
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanxm__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-dugar-680b81237) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karandugar27@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karannfr&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karannfr&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karannfr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 🚀 Projects
+
+- 🔍 [**Papers – By Students For Students**](https://papers.codechefvit.com)  
+  A collaborative platform with over 42K unique users where students can upload, search, and access previous year university papers, filters included. Built using **Next.js**, **MongoDB**, and **Tailwind CSS**.
+
+- 🤖 [**GenCode**](https://gencode.karnx.dev)  
+  An AI-powered MERN stack platform that generates competitive coding problems from user prompts. Features include a code editor, problem-solving history, and user performance tracking.
+
+- 🧠 [**SentraAI**](https://github.com/karannfr/SentraAI)  
+  A cybersecurity-focused AI middleware that sanitizes, de-obfuscates, and secures LLM inputs using multi-layered defense techniques. Built with **Node.js**, **LangGraph**, and **Ollama**.
+
+- 🗓️ [**FFCS by CodeChef-VIT**](https://ffcs.codechefvit.com)  
+  A FFCS automation tool designed to streamline the course registration process at VIT. Empowered 10K+ students to create optimized timetables effortlessly.
+
+- 🧠 [**Quiztelify**](https://quiztelify.karnx.dev)  
+  Practice platform for NPTEL quizzes. Supports PDF uploads and preloaded courses. Uses **Gemini 2.0 & 2.5 APIs** smartly to bypass token limitations and parsing issues.
+
+and building many more :)
