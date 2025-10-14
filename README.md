@@ -46,3 +46,5 @@
   Practice platform for NPTEL quizzes. Supports PDF uploads and preloaded courses. Uses **Gemini 2.0 & 2.5 APIs** smartly to bypass token limitations and parsing issues.
 
 and building many more :)
+
+[![An image of @karannfr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karannfr)](https://holopin.io/@karannfr)
